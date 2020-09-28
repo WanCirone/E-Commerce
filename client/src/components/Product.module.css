@@ -1,0 +1,47 @@
+.card {
+    background: white;
+    text-decoration: none;
+    color: #444;
+    width: 60%;
+    height: 20%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 30px;
+    border: 2px solid #DCDCDC;
+    border-radius:9px;
+    padding: 10px;
+    display: flex;
+}
+
+.img {
+    width: 100px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.price {
+    font-weight: bold;
+    margin-top:5px;
+}
+
+.cant {
+    font-weight: bold;
+    color: #33CC00;
+}
+
+.product {
+    order: 4;
+    width: 300px;
+
+}
+
+.buttonAdd {
+    margin-top: 14px;
+}
+
+.calificar {
+    margin-top: 20px;
+}

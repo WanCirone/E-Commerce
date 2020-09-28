@@ -1,0 +1,26 @@
+.btncarrito {
+  margin-left: 20px;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+.btnsearch{
+  margin:10px;
+}
+.loginmargin{
+  margin-right: 80px;
+}
+
+.numero{
+  margin-left: -10px;
+  margin-top:18px;
+  border-radius: 15px;
+  border:1px solid white;
+}
+.numero:hover{
+  margin-top:15px;
+}
+
+.profile{
+  margin: 20px
+}
+

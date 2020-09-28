@@ -1,0 +1,31 @@
+.container {
+    background-color: lightsteelblue;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: larger; 
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+input {
+    font-size: larger;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #ffc107;
+    border-radius: 10px;
+    color: black;
+    font-size: large;
+    height: 40px;
+    border-style: groove 2px black ;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 30px;
+}

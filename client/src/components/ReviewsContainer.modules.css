@@ -1,0 +1,26 @@
+.card {
+    display: flex;
+    text-align: left;
+    padding: 10px;
+    width: 500px;
+    margin-top: 20px;
+    margin-right: 200px;
+    border: hidden;
+}
+
+.rating-bar {
+    background: #f1f1f1;
+    margin: 8px;
+    height: 15px;
+}
+
+.bar-5 {height: 15px; background-color: #72d16f;}
+.bar-4 {height: 15px; background-color: #9bd16f;}
+.bar-3 {height: 15px; background-color: #f5dc4f;}
+.bar-2 {height: 15px; background-color: #ff9800;}
+.bar-1 {height: 15px; background-color: #ff451f;}
+
+.scroll {
+    height: 400px;
+    overflow-y: scroll;
+}

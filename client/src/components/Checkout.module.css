@@ -1,0 +1,24 @@
+.container {
+    background-color: lightsteelblue;
+    margin: 10px;
+    font-size: larger;
+}
+
+form {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.emailShipment {
+    margin-bottom: 50px;
+    margin-top: 30px;
+    margin-left: 500px;
+}
+
+.pago {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 30px;
+}
