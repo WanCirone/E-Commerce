@@ -28,7 +28,7 @@ npm start >> E-Commerce/client/
 ## Previews :dog: :cat:
 
 <p align='left'>
-    <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/logo%20altres%205.png' </img>
+    <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/home.png' </img>
 </p>
 
 ## Contribuidores :mortar_board: 
