@@ -36,6 +36,12 @@ npm start >> E-Commerce/client/
 <p align='left'>
     <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/catalogo.png' </img>
 </p>
+<p align='left'>
+    <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/average.png' </img>
+</p>
+<p align='left'>
+    <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/reviews.png' </img>
+</p>
 
 ## Contribuidores :mortar_board: 
 
