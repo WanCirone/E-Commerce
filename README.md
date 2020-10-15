@@ -31,10 +31,10 @@ npm start >> E-Commerce/client/
     <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/home.png' </img>
 </p>
 <p align='left'>
-    <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/login.png' </img>
+    <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/catalogo.png' </img>
 </p>
 <p align='left'>
-    <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/catalogo.png' </img>
+    <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/carrito.png' </img>
 </p>
 <p align='left'>
     <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/average.png' </img>
@@ -42,6 +42,10 @@ npm start >> E-Commerce/client/
 <p align='left'>
     <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/reviews.png' </img>
 </p>
+<p align='left'>
+    <img src='https://github.com/WanCirone/E-Commerce/blob/main/images/tablaordenes.png' </img>
+</p>
+
 
 ## Contribuidores :mortar_board: 
 
